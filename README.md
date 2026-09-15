@@ -6,28 +6,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Syam%20Chand%20Banisetti&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Flutter%20Developer%20%E2%80%A2%20AI%2FML%20Engineer&descAlignY=55&descSize=18" />
 </p>
 
-<!-- ================= HERO: DEVELOPER AT COMPUTER ================= -->
-
-<table>
-<tr>
-<td width="40%" align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Developer coding at computer" />
-</td>
-<td width="60%">
-
-<h2>👋 Hey, I'm Syam Chand Banisetti</h2>
-
-<h3>🚀 Software Engineer · Mobile & Web Developer · Flutter Developer · AI/ML Engineer</h3>
-
-<p>
-I build <b>real products</b> — Flutter apps with <b>1K+ downloads</b>, AI/ML dashboards analyzing <b>2M+ records</b>, and GenAI workflows that actually ship.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&height=80&lines=DEVELOPER;COMPUTER;SOFTWARE+ENGINEER;FLUTTER+DEVELOPER;AI%2FML+ENGINEER" />
 </p>
 
-<p>
-B.Tech CSE (Data Science) · 9.03 CGPA · LIC Golden Jubilee Scholar · GSSoC'26 Contributor
-</p>
-
-<p>
+<p align="center">
   <a href="https://syamchand.com">
     <img src="https://img.shields.io/badge/🌐_Portfolio-syamchand.com-00F5FF?style=for-the-badge&logo=google-chrome&logoColor=black" />
   </a>
@@ -42,16 +25,15 @@ B.Tech CSE (Data Science) · 9.03 CGPA · LIC Golden Jubilee Scholar · GSSoC'26
   <img src="https://img.shields.io/badge/Available%20for%20Work-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" />
 </p>
 
-</td>
-</tr>
-</table>
-
 ---
 
-<!-- ================= SECOND CODER IMAGE ================= -->
+<!-- ================= HERO: DEVELOPER AT COMPUTER ================= -->
 
 <table>
 <tr>
+<td width="40%" align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Developer coding at computer" />
+</td>
 <td width="60%">
 
 ## 🧑‍💻 About Me
@@ -62,16 +44,13 @@ I work across the intersection of **software engineering, mobile development, AI
 
 > **Build with purpose. Engineer with curiosity. Create beyond the ordinary.**
 
-- 📱 Build **Flutter mobile applications** and cross-platform products  
-- 🌐 Develop **full-stack web applications & APIs**  
-- 🤖 Build **AI/ML solutions and GenAI applications**  
-- 🧠 Experiment with **LLM workflows, agentic systems & AI pipelines**  
-- ☁️ Work with **cloud, databases, APIs and deployment technologies**  
-- 🎨 Explore **3D experiences, creative technology & digital art**  
+- 📱 Build **Flutter mobile applications** and cross-platform products
+- 🌐 Develop **full-stack web applications & APIs**
+- 🤖 Build **AI/ML solutions and GenAI applications**
+- 🧠 Experiment with **LLM workflows, agentic systems & AI pipelines**
+- ☁️ Work with **cloud, databases, APIs and deployment technologies**
+- 🎨 Explore **3D experiences, creative technology & digital art**
 
-</td>
-<td width="40%" align="center">
-  <img src="https://images.unsplash.com/photo-1587620962725-abab7fe55159?w=800" width="100%" alt="Coder at computer" />
 </td>
 </tr>
 </table>
@@ -91,8 +70,6 @@ I work across the intersection of **software engineering, mobile development, AI
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/EDA-FFD700?style=for-the-badge&logo=databricks&logoColor=black" />
-  <img src="https://img.shields.io/badge/DSA_%26_OOP-00F5FF?style=for-the-badge&logo=leetcode&logoColor=black" />
 </p>
 
 ---
@@ -159,15 +136,19 @@ I work across the intersection of **software engineering, mobile development, AI
 
 ---
 
+<!-- ========================================================= -->
+<!--               FIXED & ENHANCED GITHUB ANALYTICS            -->
+<!-- ========================================================= -->
+
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SyamChandBanisetti&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF6EC7&text_color=FFFFFF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyamChandBanisetti&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=SyamChandBanisetti&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF6EC7&text_color=FFFFFF" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SyamChandBanisetti&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SyamChandBanisetti&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=FF6EC7&fire=FFD700&currStreakLabel=00F5FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SyamChandBanisetti&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=FF6EC7&fire=FFD700&currStreakLabel=00F5FF" />
 </p>
 
 <p align="center">
@@ -200,8 +181,6 @@ I work across the intersection of **software engineering, mobile development, AI
   <img src="https://img.shields.io/badge/ServiceNow-CSA-00C853?style=for-the-badge&logo=servicenow&logoColor=white" />
   <img src="https://img.shields.io/badge/Google-IT%20Support-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/CloudKarya-GenAI-FF6EC7?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Infosys-AI%2FML%20%26%20Data%20Analytics-007CC3?style=for-the-badge&logo=infosys&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Data%20Engineering-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
 <p align="center">
